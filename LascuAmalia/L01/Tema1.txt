@@ -1,0 +1,49 @@
+Stack Overflow
+
+Stack Overflow este un site web de intrebari si raspunsuri din domeniul programarii.
+*Pe pagina de Home a site-ului avem: un meniu, un textbox pentru Search, 2 butoane("Log in" si "Sign up")
+si 2 optiuni("For developers" si "For businesses").
+*Meniul este format din: -un submeniu
+                         -about(informatii despre site)
+                         - products(un alt submeniu cu servicii oferite de Stack Overflow)
+                         -for teams
+* In submeniu avem 3 campuri principale: PUBLIC, FIND A JOB, TEAMS.
+  Campul PUBLIC are 3 optiuni: Stack Overflow, Tags, Users.
+  ->Optiunea "Stack Overflow" ne redirectioneaza spre o alta pagina unde gasim toate intrebarile puse de
+    utilizatori si raspunsul la acestea. 
+      ~In partea de sus a paginii avem o serie de butoane:-Newest(cele mai noi intrebari)
+                                                           - Active(cele mai populare intrebari)
+                                                           -Bountied
+                                                           - Unanswered(intrebari fara raspuns)
+                                                           - More(sortare dupa voturi si cele mai frecvente)
+                                                           -Filter(sortarea intrebarilor)
+                                                           -Ask Question(formularea unei intrebari) 
+      ~La o intrebare putem vedea: -nr. de voturi
+                                   -nr. de raspunsuri
+                                   -nr. de vizualizari
+                                   -cine a postat intrebarea
+                                   - mai multe tag-uri ce descriu intrebarea
+   ->Optiunea "Tags" ne redirectioneaza spre o pagina unde putem filtra dupa tag-uri(avem un textbox), pentru
+     a gasi mai usor intrebarea care ne intereseaza.
+        ~ In partea dreapta avem o serie de butoane cu tipurile de tag-uri: - popular
+                                                                            - name
+                                                                            - new
+   ->Optiunea "Users" ne redirectioneaza spre o pagina unde putem filtra dupa user(avem un textbox).
+        ~In partea dreapta avem o serie de butoane cu tipurile de users, care ne ajuta sa gasim user-ul
+         dorit dupa: -reputation
+                     - new users
+                     - voters
+                     - editors
+                     - moderators
+  Campul FIND A JOB are 2 optiuni: Jobs si Companies
+    ->Optiunea "Jobs" ne redirectioneaza spre o pagina unde gasim o lista de job-uri.
+      ~Avem posibilitatea de a cauta, filtra dupa job-ul si locatia dorita, si multe alte informatii referitoare
+       la acel job.
+
+    ->Optiunea "Companies" ne redirectioneaza spre o pagina unde gasim o lista de compani.
+      ~Avem posibilitatea de a cauta, filtra dupa o companie si locatia dorita, si multe alte informatii referitoare
+       la acea companie.
+
+  Campul TEAMS
+     ->Stack Overflow for Teams este un loc privat, pentru echpe, unde se gasesc si se parteajeaza informatii.
+       Stack Overflow for Teams este gratuit pentru 30 de zile.
