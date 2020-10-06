@@ -1,0 +1,24 @@
+
+  *Intrebari
+-> s-a pus o intrebare
+-> intrebarea a fost recompensata(voturi)
+-> s-a cautat o intrebare(dupa eticheta, utilizatori, numarul de voturi, intrebari recente)
+-> s-a raspuns la intrebare
+-> raspunsul a fost recompensat(voturi)
+-> s-a vizualizat istoricul intrebarilor
+
+  *Locuri de munca
+-> s-a cautat un job(dupa locatie, eticheta, salariu, nivelul de experienta)
+-> s-a cautat o companie(dupa locatie, eticheta, Visa sponsor)
+-> s-a ales un job
+-> s-a ales o companie
+-> notificari trimise
+-> notificari primite
+
+  *Formare/alaturare echipa
+-> cont creat
+-> utilizator autentificat
+-> s-a socializat
+-> s-au cautat informatii
+-> notificari trimise
+-> notificari primite
