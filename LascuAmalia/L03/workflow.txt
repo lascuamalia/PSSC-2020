@@ -1,0 +1,36 @@
+Workflows
+ -> Bounded context: "Question context"
+     ->Workflow:"Ask question"
+        * Triggered by: "A new question is posted"
+        * Input: "New question"
+        * Output:"Published"
+        * Side effects: Confirmation email sent to the user
+
+Workflows documentation
+      ->Workflow:"Ask question"
+         *Input:"New question"
+         *Output:"Published" event or Question rejected
+//step 1
+  Do validate new question
+    if new question is invalid then
+         stop
+//step 2
+  Verify email
+// step3
+  Send confirmation email
+//step 4
+  return "new question" event
+
+
+Workflows documentation
+
+->Substep "Validate new question"
+  *input:"Unvalidated new question"
+  *output:"Validated new question"
+  *dependencies: result of the ML
+
+->the text is analyzed via an ML
+->if result of the ML is accepted
+    -> return validated new question
+->else return validation error
+
